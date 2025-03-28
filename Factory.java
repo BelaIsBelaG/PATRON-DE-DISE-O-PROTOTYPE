@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Factory {
     private static final Map<String, Person> prototypes = new HashMap<>();
 
